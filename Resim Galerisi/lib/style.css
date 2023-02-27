@@ -1,0 +1,19 @@
+/* Add your styles here */
+
+img {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+.container {
+  margin-top: 25px;
+}
+
+.table-borderless {
+  margin: 0px auto;
+}
+
+.p-3{
+  text-align: center;
+  color:black;
+}
